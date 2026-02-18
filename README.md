@@ -61,7 +61,7 @@ Soy un Ingeniero apasionado por transformar ideas complejas en productos digital
 ### 🥇 Competiciones
 * **Ganador Nacional:** Hult Prize Ecuador (Abr. 2025)
 * **1er Lugar Local:** Hult Prize UNACH (2025)
-* **Ganador:** Innovasoft UNACH (Nov. 2024)
+* **1er Lugar:** Innovasoft UNACH (Nov. 2024)
 
 ### 📜 Certificaciones & Propiedad Intelectual
 * **Registro de Software (SENADI):** SIGECI (Nov. 2025)
